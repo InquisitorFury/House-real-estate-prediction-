@@ -67,15 +67,14 @@ housing-real-estate-prediction/
 
 Usage
 Data Exploration
-Start by exploring the dataset using the 01-data-exploration.ipynb notebook. This step includes loading the data, checking for missing values, and visualizing the distribution of different features.
 
 
 Linear Regression
-The 02-linear-regression.ipynb notebook contains the implementation of the Linear Regression model. It includes data preprocessing, model training, and evaluation.
+notebook contains the implementation of the Linear Regression model. It includes data preprocessing, model training, and evaluation.
 
 
 Random Forest
-In the 03-random-forest.ipynb notebook, you will find the implementation of the Random Forest model. Similar to the Linear Regression notebook, it covers data preprocessing, model training, and evaluation.
+notebook, you will find the implementation of the Random Forest model. Similar to the Linear Regression notebook, it covers data preprocessing, model training, and evaluation.
 
 
 Evaluation
