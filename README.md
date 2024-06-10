@@ -42,28 +42,6 @@ Dataset
 For this project, I used the California Housing Prices dataset. Download the dataset and place it in the data directory.
 
 
-Project Structure
-arduino
-Copy code
-housing-real-estate-prediction/
-│
-├── data/
-│   └── housing.csv
-│
-├── notebooks/
-│   ├── 01-data-exploration.ipynb
-│   ├── 02-linear-regression.ipynb
-│   ├── 03-random-forest.ipynb
-│   └── 04-support-vector-regression.ipynb
-│
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_evaluation.py
-│   └── prediction.py
-│
-├── .gitignore
-├── README.md
-└── requirements.txt
 
 Usage
 Data Exploration
@@ -88,15 +66,11 @@ This project is a great starting point for anyone new to machine learning. It pr
 Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request. Any contributions, whether they be new features, bug fixes, or improvements, are greatly appreciated.
 
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
 Acknowledgements
 The dataset used in this project is sourced from Kaggle.
 Special thanks to the open-source community for providing the tools and libraries used in this project.
 Feel free to reach out if you have any questions or suggestions!
-Many thanks to 
-Shashank Kalanithi | @kalamari95
+
+Many thanks to Shashank Kalanithi | @kalamari95
+
 Hands-on Machine Learning with Scikit-Learn Keras & Tensorflow
